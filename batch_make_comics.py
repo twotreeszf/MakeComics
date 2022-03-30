@@ -1,3 +1,5 @@
+import pyjion
+pyjion.enable()
 import sys
 from os import path
 import os
